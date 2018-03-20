@@ -1,6 +1,4 @@
-/* 懒人图库 搜集整理 www.lanrentuku.com */
 
-/*焦点图*/
 .focus{ position:relative; width:305px; height:245px; background-color: #000; float: left;}  
 .focus img{ width: 305px; height: 245px;} 
 .focus .shadow .title{width: 260px; height: 65px;padding-left: 30px;padding-top: 20px;}
